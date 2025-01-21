@@ -1,0 +1,1 @@
+/home/nico/Escritorio/bash//ejercicio3.sh
